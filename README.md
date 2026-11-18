@@ -1,4 +1,6 @@
-# modcascade
+<h1>
+  <img src="assets/modcascade-logo.png" alt="modcascade" width="560">
+</h1>
 
 modcascade is a moderation service for Russian-language user-generated content. The demo runs an HTTP request through a cascade of rules, a classifier, and an LLM. Each stage receives only the texts that earlier stages deferred.
 
